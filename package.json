@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "bellisland-run": "cypress run",
+    "bellisland-run": "cypress run --browser chrome",
     "bellisland-start": "cypress open"
   },
   "keywords": [],
