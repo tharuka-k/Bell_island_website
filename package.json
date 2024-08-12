@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "plotly-run": "cypress run",
-    "plotly-start": "cypress open"
+    "bellisland-run": "cypress run",
+    "bellisland-start": "cypress open"
   },
   "keywords": [],
   "author": "",
