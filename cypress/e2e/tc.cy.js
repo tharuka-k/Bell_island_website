@@ -7,6 +7,6 @@ describe('Bell Island website', () => {
 
   it('Website loading validation', () => {
     access_website();
-    cy.get('hero-container').should('contain', 'Explore the Jewel of the bay');
+    cy.get('h2').should('contain', 'Explore the Jewel of the bay');
   });
 });
