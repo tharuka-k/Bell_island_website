@@ -4,14 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "bellisland-run": "cypress run --browser chrome",
+    "bellisland-run": "cypress run --browser electron",
     "bellisland-start": "cypress open"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.13.0"
+    "cypress": "^13.13.3"
   }
-  
 }
